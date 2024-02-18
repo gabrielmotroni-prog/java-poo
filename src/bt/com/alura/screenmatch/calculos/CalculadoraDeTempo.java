@@ -10,7 +10,7 @@ public class CalculadoraDeTempo {
     }
 
     public void inclui(Titulo t){
-        //acumula tempo
+        //acumula tempo//
         this.tempoTotal += t.getDuracaoEmMinuto();
     }
 }
